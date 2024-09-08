@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 !!!</h1>
+<h1 align="left">Hello 👋 !!!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Ferramentas</h2>
+<h2 align="left">Midia social</h2>
 
 ###
 
@@ -18,6 +18,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">Ferramentas</h2>
 
 ###
 
