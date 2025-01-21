@@ -4,6 +4,8 @@
 
 <p align="left">- Full stack Developer<br>- Em transição de carreira</p>
 
+<p align="left">Oi, eu sou Henrique de Araujo. Eu decidi fazer uma grande mudança na minha vida profissional e mergulhei no fascinante universo da programação. Deixei para trás uma carreira estabelecida para seguir minha paixão por tecnologia e, desde então, estou sempre em busca de novos conhecimentos e desafios. Estou empolgado para compartilhar meus projetos e trocar ideias com outros desenvolvedores da comunidade. Agradeço por visitar o meu perfil e espero que possamos colaborar em breve! <p>
+
 ###
 
 <h2 align="left">Midia social</h2>
